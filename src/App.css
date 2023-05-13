@@ -1,0 +1,170 @@
+@import url('https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c:wght@300&display=swap');
+
+
+*{
+    font-family: M+PLUS+Rounded+1c ;
+}
+
+input{
+   padding-top: 2vh;
+   padding-bottom: 2vh;
+   padding-left: 12px;
+   border-radius: 5px;
+   border-color:#ff9f1c ;
+   padding-right: 15vh;
+   width: auto;
+}
+
+.first{
+    background-color: #002B5B;
+    /* padding: 5vh; */
+    border-radius: 25px ;
+   padding-left: 15vh;
+   padding-top: 3vh;
+   padding-right: 2vh;
+   padding-bottom: 6vh;
+}
+.first h3{
+    color: #1b4965;
+}
+.first h4{
+    color: #1b4965;
+}
+body{
+    background-color: #002B5B;
+
+}
+.gif{
+    padding-left: 50vh;
+    border-radius: 10px ;
+    width: 150vh;
+    padding-top: 15vh;
+    /* text-align: center; */
+}
+select{
+    border-radius: 25px ;
+    padding: 10px;
+    width: 50vh;
+    padding-left: 3vh;
+    padding-right: 2vh;
+}
+#stn{
+    width: 172%;
+}
+.pad{
+ /* padding-top: 42vh; */
+    text-decoration: none;
+    color:#002B5B;
+    font-weight: bold;
+    margin-left: 12vh;
+    
+}
+.back{
+    background-color: #245953;
+}
+.opt{
+    background-color: red;
+    width: 12vh;
+
+}
+.opt2{
+    background-color: yellow;
+    /* width: 12vh; */
+
+}
+.sucess{
+    color: #2eafa0;
+}
+.mr{
+    margin-left: 15vh;
+}
+.margin{
+    margin-left: 15vh;
+}
+.add{
+text-align :end;
+}
+.dark{
+color: wheat !important;
+}
+
+.mar{
+background-color: white;
+    width: 60vh;
+    border-radius: 10px;
+    padding-top: 25px;
+    margin-left: 120vh;
+    position: absolute;
+    top: 12vh;
+    left: 80vh;
+    margin-top: 15vh;
+    padding-bottom: 1vh;
+    box-shadow: 10px 8px 16px black;
+
+}
+h1{
+    margin-top: 35vh;
+    margin-left: 25vh;
+}
+button{
+margin-left: 10vh !important;
+}
+p{
+    font-size: 3vh;
+    font-weight: bold;
+}
+
+h3{
+    color: white;
+    font-weight: bold;
+}h2{
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 5vh;
+    margin-bottom: 2vh;
+}
+.bck{
+    background-color: white;
+    width: 30vh;
+    border-radius: 15px;
+    color: black;
+    padding: 12px;
+}
+.mrgin{
+    padding-left: 32vh;
+    padding-top: 2vh;
+}
+.detailscss{
+    background-color: #002B5B;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    margin-top: 52px;
+    border-radius: 50px;
+    margin-left: 12vh;
+}
+.back:hover{
+    background-color: #245953;
+    border-radius: 15px;
+    color: white;
+}
+.back{
+
+    
+    color: white;
+}
+.edit{
+    margin-left: 12px;
+ 
+    color: red;
+    padding-top: 12vh;
+}
+.margintop{
+    margin-top: 30vh;
+    
+}
+
+
+
+
+
